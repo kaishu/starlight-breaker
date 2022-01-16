@@ -1,67 +1,75 @@
-! 2020-12-12 
+! Title: Starlight Breaker
+! Description: A uBlock Orign rule list 
+! Homepage: https://github.com/kaishu/starlight-breaker
+! Licence: https://github.com/kaishu/starlight-breaker/blob/main/LICENSE
+! Country of Origin: TAIWAN
+
+!!! Allow List !!!
+
+! For financial services
 @@||fls-fe.amazon.com^$xhr,domain=amazonbrowserapp.jp
 
-! 2020-12-12 https://shop.7-11.com.tw
+! 7-11
 @@||shop.7-11.com.tw/imageserver/images/ad_file/*$image
 
-! 2020-12-12 https://www.cathaysec.com.tw
+! cathaysec
 cathaysec.com.tw#@#.ad_title
 @@||www.cathaysec.com.tw/BANNER/AdFile/*$image
 
-! 2020-12-12 https://www.fubon.com
+! fubon
 @@||connect.facebook.net^$script,domain=fubon.com
 @@||www.facebook.com^$image,domain=fubon.com
 
-! 2020-12-12 https://fubonlife.com.tw
+! fubonlife
 @@||fubonlife.com.tw^$script
 
-! 2021-07-21 https://hamivideo.hinet.net
+! hamivideo
 @@||imasdk.googleapis.com^$subdocument,script,domain=hamivideo.hinet.net
 
-! 2020-12-12 https://ticket.ibon.com.tw
+! ibon
 @@||ticketimg2.azureedge.net/image/ADImage/*$image,domain=ibon.com.tw
 
-! 2020-12-12 https://web-tw-pay.line.me
+! line
 @@||d.line-scdn.net^$script
 
-! 2020-12-12 https://www.post.gov.tw
+! post.gov.tw
 post.gov.tw#@##MainAd
 
-! 2020-12-12 https://www.pxmart.com.tw
+! pxmart
 @@||www.pxmart.com.tw/images/ad_file/*$image
 
-! 2020-12-12 https://www.ruten.com.tw
+! ruten
 @@||ahd.ruten.com.tw^$xhr
 @@||ts.ruten.com.tw^$image
 
-! 2020-12-12 https://cobank.tcb-bank.com.tw
+! tcb-bank
 @@||cobank.tcb-bank.com.tw/home/inc/img/ad/*$image
 
-! 2020-12-12 https://www.tkec.com.tw
+! tkec
 @@||www.tkec.com.tw/api/ad/*$xhr
 @@||www.cdn-tkec.tw/image/UserFiles/img_ad/*$image
 
-! 2020-12-12 https://www.animate-onlineshop.jp
+! animate
 @@||rtoaster.jp^$script,domain=animate-onlineshop.jp
 
-! 2020-12-12 https://portal.circle.ms
+! circle.ms
 @@||portal.circle.ms/Advert/*$xhr
 @@||emesadvertlogj07.blob.core.windows.net/advert-banner/*$image,domain=circle.ms
 
-! 2020-12-12 https://www.dlsite.com
+! dlsite
 @@||banner.eisys-bcs.jp^$script,domain=dlsite.com
 
-! 2020-12-12 https://www.eventernote.com
+! eventernote
 @@||mtwidget04.affiliate.rakuten.co.jp^$subdocument,domain=eventernote.com
 
-! 2020-12-12 https://www.gamers.co.jp
+! gamers
 @@||rtoaster.jp^$script,domain=gamers.co.jp
 
-! 2020-12-12 https://t.pia.jp
+! pia
 @@||jp2.probance.jp^$script,domain=pia.jp
 @@||ub.pia.jp$image
 
-! 2020-12-12 https://www.pixiv.net
+! pixiv
 pixiv.net#@##js-mount-point-header.with-ad:style(min-height: auto !important)
 pixiv.net#@#._illust-upload + div[style^="display:block;width:968px;height:170px;"]
 pixiv.net#@#div[class^="sc-"] > div[class^="sc-"] > div[style*="width: 728px;"]:only-child > iframe[name="footer"][width="728"][height="90"]:upward(2):matches-css(padding-bottom: 56px)
@@ -79,15 +87,17 @@ pixiv.net#@#section > div[class^="sc-"]:last-child > div[style*="width: 728px;"]
 @@||pixon.ads-pixiv.net^$script,image
 @@||tag-store.ads-pixiv.net^$xhr
 
-! 2020-12-12 https://www.cna.com.tw
+!!! Block List !!!
+
+! cna
 cna.com.tw##.idleBox
 cna.com.tw##.showidle.overlayidle
 
-! 2020-12-12 https://hichannel.hinet.net
+! hichannel
 hichannel.hinet.net##.idle_popup
 hichannel.hinet.net##.idle_popup_overlay
 
-! 2020-12-12 https://www.ltn.com.tw
+! ltn
 ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
 ltn.com.tw###adProject
 ltn.com.tw###idle-notice
@@ -102,5 +112,5 @@ ltn.com.tw##a.L1ad
 ltn.com.tw##li.adMarket
 ltn.com.tw##li.marketDom
 
-! 2020-12-12 https://newtalk.tw
+! newtalk.
 newtalk.tw##.ad_content_mask
