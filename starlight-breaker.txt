@@ -2,6 +2,7 @@
 ! Description: A uBlock Orign rule list 
 ! Homepage: https://github.com/kaishu/starlight-breaker
 ! Licence: https://github.com/kaishu/starlight-breaker/blob/main/LICENSE
+! Author: kaishu
 ! Country of Origin: TAIWAN
 
 !!! Allow List !!!
