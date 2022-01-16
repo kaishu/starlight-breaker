@@ -113,5 +113,9 @@ ltn.com.tw##a.L1ad
 ltn.com.tw##li.adMarket
 ltn.com.tw##li.marketDom
 
-! newtalk.
+! newtalk
 newtalk.tw##.ad_content_mask
+
+! techbang
+techbang.com##.idle-dialog
+techbang.com###idle-container
