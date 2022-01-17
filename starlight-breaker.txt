@@ -82,15 +82,9 @@ pixiv.net#@#.gtm-toppage-thumbnail-illustration-recommend-works-zone ul[class] >
 pixiv.net#@#div[style^="position: static;"] + div[class] > iframe[name="header"][width]:upward(1)
 pixiv.net#@#div[class^="sc-"] > div[style^="margin:"][style*="font-size:"]:only-child > iframe[name="footer"][width]:only-child:upward(2)
 pixiv.net#@##js-mount-point-header.with-ad:style(min-height: auto !important)
-pixiv.net#@#._illust-upload + div[style^="display:block;width:968px;height:170px;"]
 pixiv.net#@#div[class^="sc-"] > div[class^="sc-"] > div[style*="width: 728px;"]:only-child > iframe[name="footer"][width="728"][height="90"]:upward(2):matches-css(padding-bottom: 56px)
-pixiv.net#@#iframe[name="dashboard_home"]:upward(div[class^="sc-"][span="1"])
-pixiv.net#@#iframe[name="footer"][width="728"][height="90"]:upward(1)
 pixiv.net#@#iframe[name="header"][width="468"][height="60"]:upward(1)
-pixiv.net#@#iframe[name="rectangle"][width="300"][height="250"]:upward(1)
 pixiv.net#@#iframe[name="topbranding_rectangle"][width="300"][height="250"]:upward(li[size="2"][offset="1"])
-pixiv.net#@#iframe[name][width="184"][height="232"]:upward(1)
-pixiv.net#@#iframe[name][width="500"][height="520"]:upward(1)
 pixiv.net#@#section > div[class^="sc-"]:last-child > div[style*="width: 728px;"]:only-child > iframe[name="footer"][width="728"][height="90"]:upward(2):matches-css(margin-bottom: -16px)
 pixiv.net#@#[id^="div-gpt-ad"]:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0!important)
 pixiv.net#@#a[target="premium_noads"]
