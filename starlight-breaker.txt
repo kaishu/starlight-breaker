@@ -126,3 +126,6 @@ newtalk.tw##.ad_content_mask
 ! techbang
 techbang.com##.idle-dialog
 techbang.com###idle-container
+
+! yahoo
+yahoo.com##.Pos\(r\).Feedback.native-ad-item.gemini-ad.controller
