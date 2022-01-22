@@ -107,18 +107,18 @@ hichannel.hinet.net##.idle_popup_overlay
 
 ! ltn
 ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
-ltn.com.tw###adProject
-ltn.com.tw###idle-notice
-ltn.com.tw##.boxText.boxTitle.fb_mask
-ltn.com.tw##.boxText.boxTitle.bg.market300
-ltn.com.tw##.fb_alert
-ltn.com.tw##.idle_lightbox_target
-ltn.com.tw##.market
-ltn.com.tw##.softPush_notification
-ltn.com.tw##.swiper-slide-active.L1ad.swiper-slide
-ltn.com.tw##a.L1ad
-ltn.com.tw##li.adMarket
-ltn.com.tw##li.marketDom
+!ltn.com.tw###adProject
+!ltn.com.tw###idle-notice
+!ltn.com.tw##.boxText.boxTitle.fb_mask
+!ltn.com.tw##.boxText.boxTitle.bg.market300
+!ltn.com.tw##.fb_alert
+!ltn.com.tw##.idle_lightbox_target
+!ltn.com.tw##.market
+!ltn.com.tw##.softPush_notification
+!ltn.com.tw##.swiper-slide-active.L1ad.swiper-slide
+!ltn.com.tw##a.L1ad
+!ltn.com.tw##li.adMarket
+!ltn.com.tw##li.marketDom
 
 ! newtalk
 newtalk.tw##.ad_content_mask
