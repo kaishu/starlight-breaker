@@ -1,0 +1,33 @@
+! Title: WW Blocker
+! Description: A uBlock Orign rule list 
+! Homepage: https://github.com/kaishu/starlight-breaker
+! Licence: https://github.com/kaishu/starlight-breaker/blob/main/LICENSE
+! Author: kaishu
+! Country of Origin: TAIWAN
+
+||benliton.com^
+||chinatimes.com^
+||cnplus.com.tw^
+||ctee.com.tw^
+||ctia.com.tw^
+||ctitv.com.tw^
+||cts-travel.com.tw^
+||ctu.com.tw^
+||ctv.com.tw^
+||ctwant.com^
+||eelin.com.tw^
+||hotkidclub.com^
+||infotimes.com.tw^
+||lecoin.cc^
+||loveparents.org^
+||sanwant.com^
+||styletc.com^
+||superstation.com.tw^
+||turnnewsapp.com^
+||want-apollo.com^
+||want-media.com^
+||want-want.com^
+||wantblogger.com^
+||wanthome.com.tw^
+||wwf.org.tw^
+||wwunion.com^
