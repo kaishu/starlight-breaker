@@ -107,13 +107,13 @@ hichannel.hinet.net##.idle_popup
 hichannel.hinet.net##.idle_popup_overlay
 
 ! ltn
-ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
-ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
 ltn.com.tw###idle-notice
 ltn.com.tw##.idle_lightbox_target
 ltn.com.tw##.softPush_notification
 ltn.com.tw##.fb_alert
 ltn.com.tw##.fb_alert1
+ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
+ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
 
 ! newtalk
 newtalk.tw##.ad_content_mask
@@ -123,14 +123,10 @@ techbang.com##.idle-dialog
 techbang.com###idle-container
 
 ! yahoo
-yahoo.com###Billboard-ad
-yahoo.com###defaultMAST-wrapper
+yahoo.com##[href^="https://beap.gemini.yahoo.com/mbclk"]
+yahoo.com##[id^="ad-"]
 yahoo.com##.gemini-ad.controller
 yahoo.com##.gemini-ad-wrapper
 yahoo.com##.native-ad-item
-yahoo.com##.C\(\#000\).Fw\(standardFw\).Ff\(standardFf\).Mt\(30px\) > .W\(CategoryModuleWidth\).Fl\(start\).Mt\(30px\) > .Fz\(16px\).Pos\(r\).Mt\(10px\).H\(100\%\) > .Mt\(8px\).Pos\(r\)
-yahoo.com##.C\(\#000\).Fw\(standardFw\).Ff\(standardFf\).Mt\(30px\) > .W\(CategoryModuleWidth\).Fl\(end\).Mt\(30px\) > .Fz\(16px\).Pos\(r\).Mt\(10px\).H\(100\%\) > .Mt\(8px\).Pos\(r\)
-yahoo.com##.C\(\#000\).Fw\(standardFw\).Ff\(standardFf\).Mt\(30px\) > .H\(100\%\) > .Mt\(8px\).Pos\(r\)
-yahoo.com##.MAST-status-ok.Ta\(c\).Mb\(24px\).Mt\(20px\)
-yahoo.com##.W\(32\.7\%\).Mstart\(24px\).D\(ib\).H\(100\%\) > .Mt\(8px\).Pos\(r\)
-
+yahoo.com###Billboard-ad
+yahoo.com###defaultMAST-wrapper
