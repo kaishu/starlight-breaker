@@ -142,4 +142,3 @@ yahoo.com##.native-ad-item
 yahoo.com###Billboard-ad
 yahoo.com###defaultMAST-wrapper
 yahoo.com###sb_rel_sda-MAST-iframe
- 
