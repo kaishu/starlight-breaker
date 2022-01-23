@@ -128,6 +128,7 @@ techbang.com###idle-container
 ! yahoo
 yahoo.com##[href^="https://beap.gemini.yahoo.com/mbclk"]
 yahoo.com##[id^="ad-"]
+yahoo.com##[id$="-ad.darla-nonlr"]
 yahoo.com##[id$="-Ad-Proxy"]
 yahoo.com##[id$="-AdUnitWithTdAds"]
 yahoo.com##[id$="-AdWrapper-Proxy"]
@@ -140,5 +141,6 @@ yahoo.com##.MAST-status-ok
 yahoo.com##.MON-status-ok
 yahoo.com##.native-ad-item
 yahoo.com###Billboard-ad
+yahoo.com###defaultLREC-sizer
 yahoo.com###defaultMAST-wrapper
 yahoo.com###sb_rel_sda-MAST-iframe
