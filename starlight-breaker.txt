@@ -122,4 +122,10 @@ techbang.com##.idle-dialog
 techbang.com###idle-container
 
 ! yahoo
+yahoo.com###defaultMAST-wrapper
+yahoo.com##.C\(\#000\).Fw\(standardFw\).Ff\(standardFf\).Mt\(30px\) > .W\(CategoryModuleWidth\).Fl\(start\).Mt\(30px\) > .Fz\(16px\).Pos\(r\).Mt\(10px\).H\(100\%\) > .Mt\(8px\).Pos\(r\)
+yahoo.com##.C\(\#000\).Fw\(standardFw\).Ff\(standardFf\).Mt\(30px\) > .W\(CategoryModuleWidth\).Fl\(end\).Mt\(30px\) > .Fz\(16px\).Pos\(r\).Mt\(10px\).H\(100\%\) > .Mt\(8px\).Pos\(r\)
+yahoo.com##.C\(\#000\).Fw\(standardFw\).Ff\(standardFf\).Mt\(30px\) > .H\(100\%\) > .Mt\(8px\).Pos\(r\)
+yahoo.com##.MAST-status-ok.Ta\(c\).Mb\(24px\).Mt\(20px\)
 yahoo.com##.Pos\(r\).Feedback.native-ad-item.gemini-ad.controller
+yahoo.com##.W\(32\.7\%\).Mstart\(24px\).D\(ib\).H\(100\%\) > .Mt\(8px\).Pos\(r\)
