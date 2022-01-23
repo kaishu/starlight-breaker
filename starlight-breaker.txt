@@ -100,7 +100,9 @@ pixiv.net#@#a[target="premium_noads"]
 ! cna
 cna.com.tw##.idleBox
 cna.com.tw##.showidle.overlayidle
-cna.com.tw##._pvmax_s-sandwich._pvmax_m-grid-3._pvmax_l-grid-3._pvmax_xl-grid-3._pvmax_template_grid._pvmax_container > ._pvmax_articles > ._pvmax_article_viewed.NATIVE._pvmax_article
+!cna.com.tw##._pvmax_s-sandwich._pvmax_m-grid-3._pvmax_l-grid-3._pvmax_xl-grid-3._pvmax_template_grid._pvmax_container > ._pvmax_articles > ._pvmax_article_viewed.NATIVE._pvmax_article
+!cna.com.tw##div._pvmax_article_viewed.NATIVE
+cna.com.tw##._pvmax_article_viewed.NATIVE
 
 ! hichannel
 hichannel.hinet.net##.idle_popup
