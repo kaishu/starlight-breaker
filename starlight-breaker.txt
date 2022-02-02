@@ -103,6 +103,10 @@ cna.com.tw##.showidle.overlayidle
 cna.com.tw##._pvmax_article_viewed.NATIVE
 cna.com.tw###adslot_top
 
+! easycard
+ezweb.easycard.com.tw/Event01/*.gif$image
+ezweb.easycard.com.tw/Event01/*.jpg$image
+
 ! hichannel
 hichannel.hinet.net##.idle_popup
 hichannel.hinet.net##.idle_popup_overlay
