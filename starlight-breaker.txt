@@ -104,8 +104,8 @@ cna.com.tw##._pvmax_article_viewed.NATIVE
 cna.com.tw###adslot_top
 
 ! easycard
-ezweb.easycard.com.tw/Event01/*.gif$image
-ezweb.easycard.com.tw/Event01/*.jpg$image
+||ezweb.easycard.com.tw/Event01/*.gif$image
+||ezweb.easycard.com.tw/Event01/*.jpg$image
 
 ! hichannel
 hichannel.hinet.net##.idle_popup
@@ -148,3 +148,8 @@ yahoo.com###Billboard-ad
 yahoo.com###defaultLREC-sizer
 yahoo.com###defaultMAST-wrapper
 yahoo.com###sb_rel_sda-MAST-iframe
+
+! forwarders
+||promotion.leyifan.com/adv/banner/^$image
+||www2.tenso.com/ext/banner.php^$image
+||wrj-banner.imgix.net/wre/*/*.png^$image
