@@ -150,6 +150,6 @@ yahoo.com###defaultMAST-wrapper
 yahoo.com###sb_rel_sda-MAST-iframe
 
 ! forwarders
-||promotion.leyifan.com/adv/banner/^$image
+||promotion.leyifan.com/adv/banner/^
 ||www2.tenso.com/ext/banner.php^$image
-||wrj-banner.imgix.net/wre/*/*.png^$image
+||wrj-banner.imgix.net/wre/^$image
