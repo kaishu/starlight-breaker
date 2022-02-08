@@ -149,6 +149,9 @@ yahoo.com###defaultLREC-sizer
 yahoo.com###defaultMAST-wrapper
 yahoo.com###sb_rel_sda-MAST-iframe
 
+! yahoo japan
+yahoo.co.jp##.adWrap
+
 ! forwarders
 ||promotion.leyifan.com/adv/banner/*$image
 ||www2.tenso.com/ext/banner.php*$image
