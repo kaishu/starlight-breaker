@@ -13,6 +13,9 @@
 ! 7-11
 @@||shop.7-11.com.tw/imageserver/images/ad_file/*$image
 
+! bloomberg
+@@||imasdk.googleapis.com^$script,domain=bloomberg.com
+
 ! cathaysec
 cathaysec.com.tw#@#.ad_title
 @@||www.cathaysec.com.tw/BANNER/AdFile/*$image
@@ -97,6 +100,14 @@ pixiv.net#@#a[target="premium_noads"]
 
 !!! Block List !!!
 
+! ap
+apnews.com##[class^="Component-dfp-0-2-"]
+apnews.com##.leaderboard-0-2-7
+apnews.com##.RightRail
+
+! bloomberg
+bloomberg.com###fortress-preblocked-container-root
+
 ! cna
 cna.com.tw##.idleBox
 cna.com.tw##.showidle.overlayidle
@@ -129,6 +140,9 @@ ltn.com.tw##[id^="crt-"]
 
 ! newtalk
 newtalk.tw##.ad_content_mask
+
+! reuters
+reuters.com##[class^="ad-slot"]
 
 ! techbang
 techbang.com##.idle-dialog
