@@ -151,6 +151,7 @@ techbang.com###idle-container
 ! yahoo
 yahoo.com##[href^="https://beap.gemini.yahoo.com/mbclk"]
 yahoo.com##[id^="ad-"]
+yahoo.com##[id^="gemini-ad-"]
 yahoo.com##[id$="-ad.darla-nonlr"]
 yahoo.com##[id$="-Ad-Proxy"]
 yahoo.com##[id$="-AdUnitWithTdAds"]
