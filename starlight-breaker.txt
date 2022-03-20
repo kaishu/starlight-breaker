@@ -108,6 +108,10 @@ apnews.com##.RightRail
 ! bloomberg
 bloomberg.com###fortress-preblocked-container-root
 
+! businesstoday
+businesstoday.com.tw###overlay_modal
+businesstoday.com.tw##.modal-content
+
 ! cna
 cna.com.tw##.idleBox
 cna.com.tw##.showidle.overlayidle
