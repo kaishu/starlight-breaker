@@ -100,6 +100,9 @@ pixiv.net#@#a[target="premium_noads"]
 
 !!! Block List !!!
 
+! AD
+||img.scupio.com/html/ad.html$subdocument
+
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
 apnews.com##.leaderboard-0-2-7
