@@ -101,9 +101,11 @@ pixiv.net#@#a[target="premium_noads"]
 !!! Block List !!!
 
 ! AD
-!||dable.io
+||api.dable.io
+||images.dable.io
+||cdn.logly.co.jp
 !||popin.cc
-||img.scupio.com/html/ad.html
+||img.scupio.com
 
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
@@ -112,6 +114,10 @@ apnews.com##.RightRail
 
 ! bloomberg
 bloomberg.com###fortress-preblocked-container-root
+
+! bnext
+bnext.com.tw##.overlay
+bnext.com.tw##.wrapper > .container
 
 ! businesstoday
 businesstoday.com.tw###overlay_modal
@@ -137,9 +143,11 @@ ltn.com.tw##.idle_lightbox_target
 ltn.com.tw##.softPush_notification
 ltn.com.tw##.fb_alert
 ltn.com.tw##.fb_alert1
-ltn.com.tw##[class^="_popIn_"]
-ltn.com.tw##[id^="_popIn_"]
-ltn.com.tw##[id^="compass-fit-"]
+ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
+ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
+!ltn.com.tw##[class^="_popIn_"]
+!ltn.com.tw##[id^="_popIn_"]
+!ltn.com.tw##[id^="compass-fit-"]
 ltn.com.tw##[id^="crt-"]
 ltn.com.tw##.adMarket
 ltn.com.tw##.boxTitle.asideBlock
