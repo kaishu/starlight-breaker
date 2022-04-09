@@ -101,7 +101,9 @@ pixiv.net#@#a[target="premium_noads"]
 !!! Block List !!!
 
 ! AD
-||img.scupio.com/html/ad.html$subdocument
+||dable.io
+||popin.cc
+||scupio.com
 
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
@@ -135,15 +137,17 @@ ltn.com.tw##.idle_lightbox_target
 ltn.com.tw##.softPush_notification
 ltn.com.tw##.fb_alert
 ltn.com.tw##.fb_alert1
+ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
+ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
+ltn.com.tw##[class^="_popIn_"]
+ltn.com.tw##[id^="_popIn_"]
+ltn.com.tw##[id^="crt-"]
 ltn.com.tw##.adMarket
 ltn.com.tw##.boxTitle.asideBlock
 ltn.com.tw##.market
 ltn.com.tw##.market300
 ltn.com.tw##.market300_b
 ltn.com.tw##.marketHot
-ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
-ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
-ltn.com.tw##[id^="crt-"]
 
 ! newtalk
 newtalk.tw##.ad_content_mask
