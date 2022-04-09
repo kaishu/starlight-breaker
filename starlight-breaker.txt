@@ -104,7 +104,7 @@ pixiv.net#@#a[target="premium_noads"]
 ||api.dable.io
 ||images.dable.io
 ||cdn.logly.co.jp
-!||popin.cc
+||trace.popin.cc
 ||img.scupio.com
 
 ! ap
@@ -145,9 +145,9 @@ ltn.com.tw##.fb_alert
 ltn.com.tw##.fb_alert1
 ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
 ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
-!ltn.com.tw##[class^="_popIn_"]
-!ltn.com.tw##[id^="_popIn_"]
-!ltn.com.tw##[id^="compass-fit-"]
+ltn.com.tw##[class^="_popIn_"]
+ltn.com.tw##[id^="_popIn_"]
+ltn.com.tw##[id^="compass-fit-"]
 ltn.com.tw##[id^="crt-"]
 ltn.com.tw##.adMarket
 ltn.com.tw##.boxTitle.asideBlock
