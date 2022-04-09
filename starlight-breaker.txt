@@ -141,6 +141,7 @@ ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
 ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
 ltn.com.tw##[class^="_popIn_"]
 ltn.com.tw##[id^="_popIn_"]
+ltn.com.tw##[id^="compass-fit-"]
 ltn.com.tw##[id^="crt-"]
 ltn.com.tw##.adMarket
 ltn.com.tw##.boxTitle.asideBlock
