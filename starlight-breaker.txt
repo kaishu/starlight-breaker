@@ -101,9 +101,9 @@ pixiv.net#@#a[target="premium_noads"]
 !!! Block List !!!
 
 ! AD
-||dable.io
-||popin.cc
-||scupio.com
+!||dable.io
+!||popin.cc
+||img.scupio.com/html/ad.html
 
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
