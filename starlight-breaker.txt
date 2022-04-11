@@ -102,9 +102,12 @@ pixiv.net#@#a[target="premium_noads"]
 
 ! Content farms
 ||1applehealth.com^
+||babygoretro.com^
 ||comicck.com^
 ||culturekr.com^
 ||easyatm.com.tw^
+||fitnesssource1.com^
+||historyslice.com^
 ||igotojapan.com^
 ||ikoreahotel.com^
 ||itsfun.com.tw^
@@ -113,6 +116,7 @@ pixiv.net#@#a[target="premium_noads"]
 ||neon-pet.com^
 ||timetraxtech.com^
 ||read01.com^
+||tagtake.com ^
 ||*tagtw.com^
 ||twagoda.com^
 ||twgreatdaily.com^
