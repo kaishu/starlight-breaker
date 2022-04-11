@@ -170,6 +170,9 @@ reuters.com##[class^="ad-slot"]
 techbang.com##.idle-dialog
 techbang.com###idle-container
 
+! walkerland
+walkerland.com.tw##.modal-idle
+
 ! yahoo
 yahoo.com##[href^="https://beap.gemini.yahoo.com/mbclk"]
 yahoo.com##[id^="ad-"]
