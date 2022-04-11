@@ -101,32 +101,33 @@ pixiv.net#@#a[target="premium_noads"]
 !!! Block List !!!
 
 ! Content farms
-||1applehealth.com
-||comicck.com
-||dietwikitw.com
-||easyatm.com.tw
-||igotojapan.com
-||itsfun.com.tw
-||iwiki.tw
-||kknews.cc
-||timetraxtech.com
-||read01.com
-||*tagtw.com
-||twagoda.com
-||twgreatdaily.com
-||travelformosa.com
-||wikiwand.com
+||1applehealth.com^
+||comicck.com^
+||easyatm.com.tw^
+||igotojapan.com^
+||itsfun.com.tw^
+||iwiki.tw^
+||kknews.cc^
+||neon-pet.com^
+||timetraxtech.com^
+||read01.com^
+||*tagtw.com^
+||twagoda.com^
+||twgreatdaily.com^
+||travelformosa.com^
+||*wikitw.com^
+||wikiwand.com^
 
 ! AD
 ##[id^="adGeek-"]
-||api.dable.io
-||images.dable.io
-||cdn.logly.co.jp
+||api.dable.io^
+||images.dable.io^
+||cdn.logly.co.jp^
 ##[href^="https://a.popin.cc"]
 ##[href^="https://trace.popin.cc"]
 ##._popIn_recommend_article_ad
 ##._popIn_recommend_article_ad_reserved
-||img.scupio.com
+||img.scupio.com^
 ##[href^="https://rtb.tenmax.io"]
 ##._pvmax_article_viewed.NATIVE
 
