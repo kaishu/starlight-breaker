@@ -105,6 +105,7 @@ pixiv.net#@#a[target="premium_noads"]
 ||images.dable.io
 ||cdn.logly.co.jp
 ||trace.popin.cc
+##[href^="https://trace.popin.cc"]
 ||img.scupio.com
 
 ! ap
