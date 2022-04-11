@@ -101,6 +101,7 @@ pixiv.net#@#a[target="premium_noads"]
 !!! Block List !!!
 
 ! AD
+##[id^="adGeek-"]
 ||api.dable.io
 ||images.dable.io
 ||cdn.logly.co.jp
