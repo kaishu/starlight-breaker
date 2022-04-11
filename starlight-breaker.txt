@@ -104,8 +104,10 @@ pixiv.net#@#a[target="premium_noads"]
 ||api.dable.io
 ||images.dable.io
 ||cdn.logly.co.jp
-||trace.popin.cc
+##[href^="https://a.popin.cc"]
 ##[href^="https://trace.popin.cc"]
+##._popIn_recommend_article_ad
+##._popIn_recommend_article_ad_reserved
 ||img.scupio.com
 
 ! ap
@@ -127,8 +129,6 @@ businesstoday.com.tw##.modal-content
 ! cna
 cna.com.tw##.idleBox
 cna.com.tw##.showidle.overlayidle
-cna.com.tw##._pvmax_article_viewed.NATIVE
-cna.com.tw##.articleADbox.paragraph
 cna.com.tw###adslot_top
 
 ! easycard
@@ -147,8 +147,6 @@ ltn.com.tw##.fb_alert
 ltn.com.tw##.fb_alert1
 ltn.com.tw##[href^="https://pv.ltn.com.tw/click"]
 ltn.com.tw##[href^="https://pv1.ltn.com.tw/click"]
-ltn.com.tw##[class^="_popIn_"]
-ltn.com.tw##[id^="_popIn_"]
 ltn.com.tw##[id^="compass-fit-"]
 ltn.com.tw##[id^="crt-"]
 ltn.com.tw##.adMarket
