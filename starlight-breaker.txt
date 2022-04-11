@@ -103,8 +103,10 @@ pixiv.net#@#a[target="premium_noads"]
 ! Content farms
 ||1applehealth.com^
 ||comicck.com^
+||culturekr.com^
 ||easyatm.com.tw^
 ||igotojapan.com^
+||ikoreahotel.com^
 ||itsfun.com.tw^
 ||iwiki.tw^
 ||kknews.cc^
