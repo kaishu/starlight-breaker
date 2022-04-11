@@ -100,6 +100,23 @@ pixiv.net#@#a[target="premium_noads"]
 
 !!! Block List !!!
 
+! Content farms
+||1applehealth.com
+||comicck.com
+||dietwikitw.com
+||easyatm.com.tw
+||igotojapan.com
+||itsfun.com.tw
+||iwiki.tw
+||kknews.cc
+||timetraxtech.com
+||read01.com
+||*tagtw.com
+||twagoda.com
+||twgreatdaily.com
+||travelformosa.com
+||wikiwand.com
+
 ! AD
 ##[id^="adGeek-"]
 ||api.dable.io
