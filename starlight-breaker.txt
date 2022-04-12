@@ -183,6 +183,8 @@ ltn.com.tw##.market
 ltn.com.tw##.market300
 ltn.com.tw##.market300_b
 ltn.com.tw##.marketHot
+ltn.com.tw##.popInRelative
+ltn.com.tw##.relatedDom
 
 ! newtalk
 newtalk.tw##.ad_content_mask
