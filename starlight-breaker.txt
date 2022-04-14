@@ -187,7 +187,16 @@ ltn.com.tw##.popInRelative
 ltn.com.tw##.relatedDom
 
 ! newtalk
+newtalk.tw##.head
+newtalk.tw##.iframe_zone
+newtalk.tw##.mask
 newtalk.tw##.ad_content_mask
+newtalk.tw##.ad_top
+newtalk.tw##.ad_right
+newtalk.tw##.ad_right_sticky_main
+newtalk.tw##.ad-container
+newtalk.tw##.ats_insert_ads
+newtalk.tw##.gliaplayer-container
 
 ! reuters
 reuters.com##[class^="ad-slot"]
