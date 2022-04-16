@@ -7,7 +7,7 @@
 
 !!! Allow List !!!
 
-! For financial services
+! for financial services
 @@||fls-fe.amazon.com^$xhr,domain=amazonbrowserapp.jp
 
 ! 7-11
@@ -71,6 +71,9 @@ post.gov.tw#@##MainAd
 @@||jp2.probance.jp^$script,domain=pia.jp
 @@||ub.pia.jp$image
 
+! picsee
+picsee.io##.pointer
+
 ! pixiv
 pixiv.net#@#iframe[width="728"][height="90"]
 pixiv.net#@#iframe[width="468"][height="60"]
@@ -100,14 +103,14 @@ pixiv.net#@#a[target="premium_noads"]
 
 !!! Block List !!!
 
-! Content farms
+! content farms
 ||ikoreahotel.com^
 ||tagtake.com^
 ||*tagtw.com^
 ||*wikitw.com^
 ||wikiwand.com^
 
-! AD
+! ad networks
 ##[id^="adGeek-"]
 ||api.dable.io^
 ||images.dable.io^
