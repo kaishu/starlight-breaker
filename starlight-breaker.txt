@@ -101,26 +101,9 @@ pixiv.net#@#a[target="premium_noads"]
 !!! Block List !!!
 
 ! Content farms
-||1applehealth.com^
-||babygoretro.com^
-||comicck.com^
-||culturekr.com^
-||easyatm.com.tw^
-||fitnesssource1.com^
-||historyslice.com^
-||igotojapan.com^
 ||ikoreahotel.com^
-||itsfun.com.tw^
-||iwiki.tw^
-||kknews.cc^
-||neon-pet.com^
-||timetraxtech.com^
-||read01.com^
-||tagtake.com ^
+||tagtake.com^
 ||*tagtw.com^
-||twagoda.com^
-||twgreatdaily.com^
-||travelformosa.com^
 ||*wikitw.com^
 ||wikiwand.com^
 
@@ -143,6 +126,7 @@ apnews.com##.leaderboard-0-2-7
 apnews.com##.RightRail
 
 ! bloomberg
+bloomberg.com##.leaderboard-wrapper
 bloomberg.com###fortress-preblocked-container-root
 
 ! bnext
