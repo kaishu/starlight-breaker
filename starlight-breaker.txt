@@ -122,6 +122,7 @@ pixiv.net#@#a[target="premium_noads"]
 ||img.scupio.com^
 ##[href^="https://rtb.tenmax.io"]
 ##._pvmax_article_viewed.NATIVE
+##._pvmax_pr
 
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
