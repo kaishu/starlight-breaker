@@ -129,6 +129,9 @@ apnews.com##[class^="Component-dfp-0-2-"]
 apnews.com##.leaderboard-0-2-7
 apnews.com##.RightRail
 
+! bbc
+bbc.com##.dotcom-ad
+
 ! bloomberg
 bloomberg.com##.leaderboard-wrapper
 bloomberg.com###fortress-preblocked-container-root
