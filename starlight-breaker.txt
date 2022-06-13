@@ -154,9 +154,27 @@ cna.com.tw###adslot_top
 ||ezweb.easycard.com.tw/Event01/*.gif$image
 ||ezweb.easycard.com.tw/Event01/*.jpg$image
 
+! goo
+goo.ne.jp##[class^="gooad_"]
+goo.ne.jp##[id^="gooad-"]
+goo.ne.jp##.ad
+goo.ne.jp##.gn-ad-image
+goo.ne.jp##.NR-ad
+goo.ne.jp##.NR-pr
+goo.ne.jp##section.sp-padding15.gn-partition
+
 ! hichannel
 hichannel.hinet.net##.idle_popup
 hichannel.hinet.net##.idle_popup_overlay
+
+! hinet
+hinet.net##.popup
+hinet.net##.popup_overlay
+hinet.net##.adBlock
+hinet.net##.addiv
+hinet.net##.banner_a
+hinet.net##.bn300x250
+hinet.net##hinetwork
 
 ! ltn
 ltn.com.tw###idle-notice
