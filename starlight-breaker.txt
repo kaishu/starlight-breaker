@@ -170,10 +170,12 @@ hichannel.hinet.net##.idle_popup_overlay
 ! hinet
 hinet.net##.popup
 hinet.net##.popup_overlay
+hinet.net##[class^="gemini-ad-"]
 hinet.net##.adBlock
 hinet.net##.addiv
 hinet.net##.banner_a
 hinet.net##.bn300x250
+hinet.net##.MinW
 hinet.net##hinetwork
 
 ! ltn
