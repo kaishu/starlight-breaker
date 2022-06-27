@@ -44,6 +44,9 @@ post.gov.tw#@##MainAd
 @@||ahd.ruten.com.tw^$xhr
 @@||ts.ruten.com.tw^$image
 
+! shopify
+@@|myshopify.com^
+
 ! tcb-bank
 @@||cobank.tcb-bank.com.tw/home/inc/img/ad/*$image
 
