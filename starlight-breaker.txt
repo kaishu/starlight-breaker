@@ -74,9 +74,6 @@ post.gov.tw#@##MainAd
 @@||jp2.probance.jp^$script,domain=pia.jp
 @@||ub.pia.jp$image
 
-! picsee
-picsee.io##.pointer
-
 ! pixiv
 pixiv.net#@#iframe[width="728"][height="90"]
 pixiv.net#@#iframe[width="468"][height="60"]
@@ -212,6 +209,9 @@ newtalk.tw##.ad_right_sticky_main
 newtalk.tw##.ad-container
 newtalk.tw##.ats_insert_ads
 newtalk.tw##.gliaplayer-container
+
+! picsee
+picsee.io##.pointer
 
 ! reuters
 reuters.com##[class^="ad-slot"]
