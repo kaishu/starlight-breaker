@@ -124,6 +124,14 @@ pixiv.net#@#a[target="premium_noads"]
 ##._pvmax_article_viewed.NATIVE
 ##._pvmax_pr
 
+! ameba
+ameblo.jp##div:nth-of-type(19)
+ameblo.jp##._10_Q0iE-
+ameblo.jp##.skin-entryAd
+ameblo.jp###sideTopBanner
+ameblo.jp###sideMiddleBanner > .subAdBannerHeader
+ameblo.jp###sideBottomBanner > .subAdBannerHeader
+
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
 apnews.com##.leaderboard-0-2-7
