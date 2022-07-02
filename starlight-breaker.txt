@@ -33,6 +33,13 @@ cathaysec.com.tw#@#.ad_title
 ! ibon
 @@||ticketimg2.azureedge.net/image/ADImage/*$image,domain=ibon.com.tw
 
+! locipo
+@@||imasdk.googleapis.com^$domain=locipo.jp
+
+! pia
+@@||jp2.probance.jp^$script,domain=pia.jp
+@@||ub.pia.jp$image
+
 ! post.gov.tw
 post.gov.tw#@#img[width="88"][height="31"]
 post.gov.tw#@##MainAd
@@ -69,10 +76,6 @@ post.gov.tw#@##MainAd
 
 ! gamers
 @@||rtoaster.jp^$script,image,domain=gamers.co.jp
-
-! pia
-@@||jp2.probance.jp^$script,domain=pia.jp
-@@||ub.pia.jp$image
 
 ! pixiv
 pixiv.net#@#iframe[width="728"][height="90"]
