@@ -136,7 +136,7 @@ ameblo.jp###sideMiddleBanner > .subAdBannerHeader
 ameblo.jp###sideBottomBanner > .subAdBannerHeader
 
 ! ap
-!apnews.com##[class^="Component-dfp-0-2-"]
+apnews.com##[class^="Component-dfp-0-2-"]
 apnews.com##.FeedAd
 apnews.com##.Leaderboard
 apnews.com##.RightRail
@@ -227,6 +227,9 @@ picsee.io##.pointer
 
 ! reuters
 reuters.com##[class^="ad-slot"]
+
+! sankei
+www.sankei.com##[id^="crt-Rec_"]
 
 ! techbang
 techbang.com##.idle-dialog
