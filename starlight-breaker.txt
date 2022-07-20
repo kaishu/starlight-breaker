@@ -128,12 +128,13 @@ pixiv.net#@#a[target="premium_noads"]
 ##._pvmax_pr
 
 ! ameba
-ameblo.jp##div:nth-of-type(19)
+ameblo.jp##[class^="Component-dfp-0-2-"]
+ameblo.jp##[class$="-ad-container"]
 ameblo.jp##._10_Q0iE-
+ameblo.jp##._2qRZ1bNt
 ameblo.jp##.skin-entryAd
+ameblo.jp##.subAdBannerHeader
 ameblo.jp###sideTopBanner
-ameblo.jp###sideMiddleBanner > .subAdBannerHeader
-ameblo.jp###sideBottomBanner > .subAdBannerHeader
 
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
@@ -189,6 +190,11 @@ hinet.net##.banner_a
 hinet.net##.bn300x250
 hinet.net##.MinW
 hinet.net##hinetwork
+
+! jiji
+jiji.com##.ArticleAd
+jiji.com##.ArticleAdSide
+jiji.com##.ArticleInnerAD
 
 ! ltn
 ltn.com.tw###idle-notice
