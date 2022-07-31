@@ -129,6 +129,7 @@ pixiv.net#@#a[target="premium_noads"]
 
 ! ameba
 ameblo.jp##[class^="Component-dfp-0-2-"]
+ameblo.jp##[class^="glasgow-template-"]
 ameblo.jp##[class$="-ad-container"]
 ameblo.jp##._10_Q0iE-
 ameblo.jp##._2qRZ1bNt
