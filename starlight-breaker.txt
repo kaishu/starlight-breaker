@@ -137,6 +137,10 @@ ameblo.jp##.skin-entryAd
 ameblo.jp##.subAdBannerHeader
 ameblo.jp###sideTopBanner
 
+! animate
+animate-onlineshop.jp###popup_International
+animate-onlineshop.jp###rt\.popup-overlay_rt_popup1
+
 ! ap
 apnews.com##[class^="Component-dfp-0-2-"]
 apnews.com##.FeedAd
@@ -216,6 +220,9 @@ ltn.com.tw##.market300_b
 ltn.com.tw##.marketHot
 ltn.com.tw##.popInRelative
 ltn.com.tw##.relatedDom
+
+! melonbooks
+melonbooks.co.jp###top_oversea_bnr
 
 ! newtalk
 newtalk.tw##.head
