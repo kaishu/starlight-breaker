@@ -33,6 +33,9 @@ cathaysec.com.tw#@#.ad_title
 ! ibon
 @@||ticketimg2.azureedge.net/image/ADImage/*$image,domain=ibon.com.tw
 
+! jollybuy
+@@||www.googletagmanager.com/gtag/js$script,domain=jollybuy.com
+
 ! locipo
 @@||imasdk.googleapis.com^$domain=locipo.jp
 
