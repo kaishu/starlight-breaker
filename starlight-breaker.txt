@@ -217,6 +217,7 @@ ltn.com.tw##[id^="compass-fit-"]
 ltn.com.tw##[id^="crt-"]
 ltn.com.tw##.adMarket
 ltn.com.tw##.boxTitle.asideBlock
+ltn.com.tw##.L1ad
 ltn.com.tw##.market
 ltn.com.tw##.market300
 ltn.com.tw##.market300_b
@@ -281,5 +282,6 @@ yahoo.co.jp##.adWrap
 
 ! forwarders
 ||promotion.leyifan.com/adv/banner/*$image
+||www.jpgoodbuy.com/advbanner.php$image
 ||www2.tenso.com/ext/banner.php*$image
 ||wrj-banner.imgix.net/wre/*$image
