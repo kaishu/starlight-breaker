@@ -113,7 +113,6 @@ pixiv.net#@#a[target="premium_noads"]
 !!! Block List !!!
 
 ! content farms
-||ikoreahotel.com^
 ||tagtake.com^
 ||*tagtw.com^
 ||*wikitw.com^
