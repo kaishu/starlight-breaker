@@ -64,6 +64,9 @@ post.gov.tw#@##MainAd
 @@||www.tkec.com.tw/api/ad/*$xhr
 @@||www.cdn-tkec.tw/image/UserFiles/img_ad/*$image
 
+! tver
+@@||imasdk.googleapis.com^$script,domain=tver.jp
+
 ! animate
 @@||rtoaster.jp^$script,image,domain=animate-onlineshop.jp
 
@@ -226,6 +229,7 @@ ltn.com.tw##.popInRelative
 ltn.com.tw##.relatedDom
 
 ! melonbooks
+melonbooks.co.jp###buyee-bcFrame
 melonbooks.co.jp###top_oversea_bnr
 
 ! newtalk
