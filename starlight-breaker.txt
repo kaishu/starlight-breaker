@@ -131,6 +131,7 @@ pixiv.net#@#a[target="premium_noads"]
 ##[href^="https://rtb.tenmax.io"]
 ##._pvmax_article_viewed.NATIVE
 ##._pvmax_pr
+||trafficfactory.biz^
 
 ! ameba
 ameblo.jp##[class^="Component-dfp-0-2-"]
