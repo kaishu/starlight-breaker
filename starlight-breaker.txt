@@ -244,9 +244,6 @@ newtalk.tw##.ad-container
 newtalk.tw##.ats_insert_ads
 newtalk.tw##.gliaplayer-container
 
-! picsee
-picsee.io##.pointer
-
 ! reuters
 reuters.com##[class^="ad-slot"]
 
